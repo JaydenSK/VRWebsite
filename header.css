@@ -1,0 +1,17 @@
+#header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #3837C3;
+  
+}
+
+#header > h3 {display: inline-block}
+
+#header > h1 {display: inline-block}
+
+#header >h3 > a{
+	text-decoration: none;
+	color: orange;
+}
+}
